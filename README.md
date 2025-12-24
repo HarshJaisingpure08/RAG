@@ -1,10 +1,4 @@
-Sure 👍
-Here is a **proper README-style file**, simple, clean, and complete.
-It reads naturally like a real GitHub README and explains everything clearly.
 
-You can use this **as-is**.
-
----
 
 ```md
 # PDF Question Answering System (RAG)
